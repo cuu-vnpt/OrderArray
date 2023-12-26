@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/OrderArray/bin/Debug/net7.0/OrderArray
+/Users/macos/Desktop/Operator/OrderArray/bin/Debug/net7.0/OrderArray.deps.json
+/Users/macos/Desktop/Operator/OrderArray/bin/Debug/net7.0/OrderArray.runtimeconfig.json
+/Users/macos/Desktop/Operator/OrderArray/bin/Debug/net7.0/OrderArray.dll
+/Users/macos/Desktop/Operator/OrderArray/bin/Debug/net7.0/OrderArray.pdb
+/Users/macos/Desktop/Operator/OrderArray/obj/Debug/net7.0/OrderArray.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/OrderArray/obj/Debug/net7.0/OrderArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/OrderArray/obj/Debug/net7.0/OrderArray.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/OrderArray/obj/Debug/net7.0/OrderArray.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/OrderArray/obj/Debug/net7.0/OrderArray.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/OrderArray/obj/Debug/net7.0/OrderArray.dll
+/Users/macos/Desktop/Operator/OrderArray/obj/Debug/net7.0/refint/OrderArray.dll
+/Users/macos/Desktop/Operator/OrderArray/obj/Debug/net7.0/OrderArray.pdb
+/Users/macos/Desktop/Operator/OrderArray/obj/Debug/net7.0/OrderArray.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/OrderArray/obj/Debug/net7.0/ref/OrderArray.dll
